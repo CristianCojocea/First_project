@@ -6,5 +6,6 @@ var2 = 2
 print(suma(var1,var2))
 
 print("Test")
+print("Test Merge")
 
 #pentru fiecare modificare da commit nu uita
